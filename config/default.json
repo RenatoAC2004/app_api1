@@ -1,9 +1,10 @@
 {
     "mysql":{
-        "banco-de-dados":"loja",
+        "banco-de-dados":"railway",
         "usuario": "root",
-        "senha": "123456",
-        "host": "localhost"
+        "senha": "eSJHYYihsRcXgFfTiyTm",
+        "host": "localhost",
+        "port": "6005"
 
     }
 }
